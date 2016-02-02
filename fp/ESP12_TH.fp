@@ -1,0 +1,21 @@
+Element(0x00 "Single in line package" "" "SIP5" 160 10 3 100 0x00)
+(
+	Pin(-7mm -7mm 70 38 "1" 0x101)
+	Pin(-7mm -5mm 70 38 "2" 0x01)
+	Pin(-7mm -3mm 70 38 "3" 0x01)
+	Pin(-7mm -1mm 70 38 "4" 0x01)
+	Pin(-7mm  1mm 70 38 "5" 0x01)
+	Pin(-7mm  3mm 70 38 "6" 0x01)
+	Pin(-7mm  5mm 70 38 "7" 0x01)
+	Pin(-7mm  7mm 70 38 "8" 0x01)
+
+	Pin( 7mm  7mm 70 38 "9" 0x01)
+	Pin( 7mm  5mm 70 38 "10" 0x01)
+	Pin( 7mm  3mm 70 38 "11" 0x01)
+	Pin( 7mm  1mm 70 38 "12" 0x01)
+	Pin( 7mm -1mm 70 38 "13" 0x01)
+	Pin( 7mm -3mm 70 38 "14" 0x01)
+	Pin( 7mm -5mm 70 38 "15" 0x01)
+	Pin( 7mm -7mm 70 38 "16" 0x01)
+
+)
